@@ -90,8 +90,8 @@
         padding: 0px 20px;
     }
     .agency_banner_area .banner_shap{
-        width: 80%;
-        top: -100px;
+        width: 100%;
+        top: -50px;
     }
     .p_service_item.agency_service_item{
         padding-right: 0px;

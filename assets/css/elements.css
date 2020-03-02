@@ -208,7 +208,6 @@
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     padding-top: 100px;
-    border-bottom: 1px solid #eeeef5;
     padding-bottom: 35px;
     position: relative;
     z-index: 4;
@@ -250,6 +249,7 @@
 .agency_content h2 {
     font-size: 50px;
     line-height: 66px;
+    padding-top: 23px;
 }
 
 /*================ software_banner_area css ================*/
@@ -3998,16 +3998,16 @@
 
 .pay_icon {
     background: url("../img/home9/icon_shape_two.png") no-repeat scroll center 0;
-    width: 110px;
-    height: 103px;
+    width: 200px;
+    height: 138px;
     text-align: center;
     line-height: 95px;
     margin-bottom: 34px;
 }
 
 .payment_service_item {
-    padding-right: 80px;
-    margin-bottom: 75px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 .payment_service_item .icon {
@@ -5488,7 +5488,7 @@
 }
 
 .partner_logo_area_two h4 {
-    color: #8891aa;
+    color: none;
 }
 
 .partner_info {
@@ -6604,7 +6604,7 @@
 
 /*=========== sass_partner_logo_area css ==========*/
 .sass_partner_logo_area, .saas_map_area, .saas_subscribe_area {
-    background: #fbfcfe;
+    background: #none;
 }
 
 /*=========== saas_subscribe_area css ==========*/

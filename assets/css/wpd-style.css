@@ -31,6 +31,8 @@ img.aligncenter {
 
 img.attachment-full.size-full {
     width: auto;
+    padding-right: 140px;
+    padding-top: 50px;
 }
 
 .byline,
